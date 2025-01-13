@@ -1,7 +1,7 @@
 # CalculatorApp
 
+</br>
 import java.util.Scanner;
-
 class calculatorApp
 {
     public static void main(String []args)
