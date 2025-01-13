@@ -1,6 +1,5 @@
 # CalculatorApp
 
-</br>
 import java.util.Scanner;
 class calculatorApp
 {
