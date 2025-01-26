@@ -41,6 +41,8 @@ class calculatorApp
         }
     }
 }
+
+// this is second method to make calculator
 /*
 import java.util.Scanner;
 
